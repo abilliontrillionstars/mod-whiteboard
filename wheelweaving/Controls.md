@@ -1,0 +1,29 @@
+## Channeling
+- player controls how much power to draw
+    - scroll wheel (configurable sensitivity)
+    - moves slower with more drawn
+    - make vfx appear from beneath player
+        - more power = more threads
+    - gives weaves more oomph
+    - drawing too much burns the player through
+        - white vignette flickers on screen
+        - players starts to take damage
+        - custom damage type, ignores iframes
+        - drains health visibly and quickly
+        - do percentage of max health per tick
+            - configurable, default 1%? 0.5%?
+            - or flat dmg + Cx*(maxhp-20) 
+    - power must manually be let go
+        - otherwise power continues to drain
+        - incentivizes quick controlling
+            - client config for accessibility
+- player can link with other channelers
+    - keybind, toggles per player
+        - sneak press to release all links?
+- how will weaves be cast?
+    - elemental threads should be involved
+    - but how to pick them?
+        - ideas: radial menu, wasd+jump?
+        - ambitious: hold key while flicking the mouse
+            - from top/left/right/bottom inward
+            - fling in circle for spirit?

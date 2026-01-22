@@ -1,4 +1,4 @@
-## A reference to the Figura avatar that 
+The documentation reference from the Figura avatar that was the precursor to this mod. 
 ### Mechanics ###
 Spells will mostly consist of animations that sling ink in the form of particle lines or splines. 
 These animations are played by Figura, and hold instruction keyframes that send chat messages to cast hexes in time with them. Cassettes will be used to read property iotas to select the right 

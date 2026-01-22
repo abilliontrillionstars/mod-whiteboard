@@ -12,6 +12,11 @@ spectrum addon that adds magicks that are cast from the paintbrush.
 - how are spells gained?
 	- ideas: machine that applies to a brush
 - in tiers, like MnA, following the pedestal stages?
+	- paintbrush tiers along with pedestals?
+		- eg Pigment Tinkerer's -> Ink Mage's -> Virtuoso's
+		- also, colored brush for specific color buffing
+			- special staff texture for each, eg. lime leafy staff
+
 - unlock spells for ALL hues simultaneously 
 	- reprise, encourages revisiting colors
 	- ex: light blue summons snow golems -> +stray summon

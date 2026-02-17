@@ -19,6 +19,7 @@ hexcasting addon that allows bypassing the usual truename mechanics for your tru
         - or invade the VM ((not advised))
 - Lodequartz Compass
     - provides constant coords of a player, but not reference
+    - pattern, string -> vec, pops username & pushes position
 - add back in some gloop features?
     - truename coins
     - truename write warning (& Acknowledge Truename)
@@ -27,9 +28,18 @@ hexcasting addon that allows bypassing the usual truename mechanics for your tru
 - contracts? maybe unoriginal
     - write to it a hex that queries a condition
         - "never set foot here again, lest ye be exploded"
+        - must leave on the stack only a boolean
+            - must be tested
         - no spells allowed! can't use media maybe?
-            - add a whitelist for raycasts or similar
+            - no media would prevent reading from elsewhere
+            - add a whitelist for raycasts or similar?
         - queries every n ticks (configgable)
+            - or, contract author decides when to query
+                - maybe uses their media?
+            - username string, num -> , do query at your contract n
+                - n is index in stack, order is preserved
+            - username string ->, prints active contracts
+                - careful to not make free hex storage!
     - when that condition returns false, cast
         - could either have the victim on the stack,
         - or simply cast as them. dastardly!
@@ -37,6 +47,8 @@ hexcasting addon that allows bypassing the usual truename mechanics for your tru
         - but who ever reads the fine print? ;)
     - can be used to invalidate other treatises
         - needs some pattern to do so, needing some reference
+        - username string -> spell for each treatise type
+    - bug watch: don't let author == signer
 
 ## compat
 - Moves the Mind integration

@@ -1,4 +1,5 @@
 
+[[Main - Wheelweaving]]
 The actual effects of the One Power are sometimes bundled into Weaves. This is the equivalent of "Spells" in other magic systems.
 
 ## Weave List
@@ -14,7 +15,10 @@ The actual effects of the One Power are sometimes bundled into Weaves. This is t
     - TODO think of underwater use
 - Listen to the Wind
     - heighten player senses
-    - notify mob aggro + proximity
+    - various mob scrying
+	    - notify aggro + proximity
+	    - mob spawn areas
+	    - slime / wither chunks
     - echo faraway sounds into earshot
 - Healing
     - regeneration 3

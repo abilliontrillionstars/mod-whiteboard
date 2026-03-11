@@ -1,3 +1,4 @@
+[[Main - Wheelweaving]]
 ## Channeling
 - player controls how much power to draw
     - scroll wheel (configurable sensitivity)
@@ -27,3 +28,5 @@
         - ambitious: hold key while flicking the mouse
             - from top/left/right/bottom inward
             - fling in circle for spirit?
+            - straight line vs squiggle
+	            - for different styles

@@ -1,3 +1,4 @@
+[[Main - Mage of the 16 Hues]]
 The documentation reference from the Figura avatar that was the precursor to this mod. 
 ### Mechanics ###
 Spells will mostly consist of animations that sling ink in the form of particle lines or splines. 

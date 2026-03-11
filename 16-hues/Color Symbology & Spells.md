@@ -1,3 +1,4 @@
+[[Main - Mage of the 16 Hues]]
 ## Spectrum Hues + Symbology Reference ###
 Topaz represents MATTER, Amethyst represents TIME, and Citrine represents ENERGY.
 Onyx symbolizes VOID, and the brilliant Moonstone LIFE.

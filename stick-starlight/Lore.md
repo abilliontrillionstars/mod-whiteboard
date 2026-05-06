@@ -16,15 +16,15 @@ These are patterns of stars in the night sky that hold immense power within; eac
 * Lepus Alatus
 	* Winged Rabbit
 	* Known for speed and fearfulness
-	* "A playful yet easily frighted trickster [[Lore|Starlight Powers]]. It seems to taunt the [[Lore|Starlight Powers]], but causes mayhem in its wake after bolting away from the problems it has caused."
+	* "A playful yet easily frighted trickster [[Lore|Starlight Power]]. It seems to taunt the [[Lore|Starlight Powers]] for fun, but causes mayhem in its wake after bolting away from the problems it has caused."
 * Putridum Custodem
 	* A Warden like creature that is one with the land (supposed "central" mind of the sculk)
 	* Known for power and rage
-	* "One of the oldest [[Lore|Starlight Powers]]. Despite their distance, it is presumed to be the one being controlling the **Sculk**. It's unending rage has been only subdued by its eternal recovery, after a long battle with the other [[Lore|Starlight Powers]]; searching for lesser beings to consume."
+	* "One of the oldest [[Lore|Starlight Powers]]. Despite their distance, it is presumed to be the one being controlling the Sculk. It's unending rage has been only subdued by its eternal recovery period, after a long battle with the other [[Lore|Starlight Powers]]; searching for lesser beings to consume."
 * Dominus Harmonia
 	* A Human that looks much like Steve
 	* Known for creation and destruction
-	* "The most human appearing [[Lore|Starlight Powers]]. Said to have been 2 older [[Lore|Starlight Powers]] that merged into one being; representing both the world's endless ability to create, and the ultimate ability to wipe the lands clear."
+	* "The most human appearing [[Lore|Starlight Powers]]. Said to have been two older [[Lore|Starlight Powers]] that merged into one being; representing both the world's endless ability to create, and the ultimate ability to wipe the lands clear."
 * Draco Spiritus
 	* A massive Phantom being that has Dragon Scales; possibly baring broken manacles
 	* Known for freedom and isolation
@@ -32,11 +32,11 @@ These are patterns of stars in the night sky that hold immense power within; eac
 * Auream Robotam
 	* A gilded emerald golem
 	* Known for prosperity and stagnation
-	* "A [[Lore|Starlight Power]] the Villagers seem endlessly devoted to. Seemingly attempting to bribe the other [[Lore|Starlight Power]] into doing activities it does not wish to preform."
+	* "A [[Lore|Starlight Power]] the Villagers seem endlessly devoted to. Seemingly attempts to bribe the other [[Lore|Starlight Power]] into doing activities it does not wish to preform."
 * Purpura Equus
 	* A Enderman Centaur
 	* Known for safe travels and debts
-	* "Has a deadly blood feud with the Draco Spiritus [[Lore|Starlight Power]]. This [[Lore|Starlight Power]] is known for rapidly moving across the stars in the Above, taking travelers to distant far off lands of purple and yellow. If the [[Lore|Starlight Power]] is indebted to a being, it will nearly endlessly serve them."
+	* "Has a deadly blood feud with the **Draco Spiritus** [[Lore|Starlight Power]]. This [[Lore|Starlight Power]] is known for rapidly moving across the stars in the Above, taking travelers to distant far off lands of purple and yellow. If the [[Lore|Starlight Power]] is indebted to a being, it will nearly endlessly serve them."
 * Gladius et Defensio
 	* A sword crossed over a shield
 	* Known for war and death
@@ -54,4 +54,4 @@ These are patterns of stars in the night sky that hold immense power within; eac
 	* Known for life and punishments
 	* "A being that is both made of brimstone and wood; often seen as the one who both made the Overworld, and the Nether as reflections of itself. As well, sees all life it has created as nearly its own children; and when they do not act as it wishes, it punishes them dearly. The piglins are said to have revolted against it; other [[Lore|Starlight Power]] are fearful of Infintia Natrurae."
 
-[[TODO|TODO: Write more lore examples, and the Constellations themselves]]
+[[TODO|TODO: Write what attuning to each Constellation does; and what happens if you over tune]]

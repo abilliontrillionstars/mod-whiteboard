@@ -5,4 +5,4 @@ Both naturally generated, and player constructed structures in [[Main - Astral A
 
 ## Player Made
 * Starlight Concentrator
-  A device constructed out of [[Astral Arcana/Items#Tools|Celestial Marble]] meant to infuse items with [[Astral Arcana/Items#Common Items|Liquid Starlight]]. Used to craft tools, and common resources of the mod
+  A device constructed out of [[stick-starlight/Items#Tools|Celestial Marble]] meant to infuse items with [[stick-starlight/Items#Common Items|Liquid Starlight]]. Used to craft tools, and common resources of the mod

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astral Arcana/Structures.md",
+                "file": "stick-starlight/Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structures"
+              "title": "Items"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Items"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,11 +195,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "7fea194943ef8a58",
+  "active": "81317d664d19fa48",
   "lastOpenFiles": [
-    "Astral Arcana/Main - Astral Arcana.md",
-    "Astral Arcana/Structures.md",
-    "Astral Arcana/Items.md",
+    "stick-starlight/Structures.md",
+    "stick-starlight/Main - Astral Arcana.md",
+    "stick-starlight/Items.md",
     "wheelweaving/Controls.md",
     "wheelweaving/Items.md",
     "Astral Arcana/Powers.md",

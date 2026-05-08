@@ -11,8 +11,10 @@ Both naturally generated, and player constructed structures in [[Main - Astral A
 ## Player Made
 * **Starlight Concentrator**
   A device constructed out of [[stick-starlight/Items#Tools|Celestial Marble]] meant to infuse items with [[stick-starlight/Items#Common Items|Liquid Starlight]]. Used to craft tools, and common resources of the mod
-* **Attunement Altar**
-  name wip, the structure by which a player attunes themselves (or items, though maybe we want to make that structure separate?) to constellations. will require in-world setup to describe both the constellation and the desired effect. 
+* **Attunement Sanctum**
+  A large but flat structure (13x13 blocks?) made of both [[stick-starlight/Items#Common Items|Celestial Marble and Darkened Celestial Marble]] {much like the old AS platform}. It is a vital component of [[Attunement#Players|Player Attunment]] and general [[Attunement]] to the [[Lore#Constellations|Constellations]]. To select a [[Lore#Constellations|Constellation]], first it must be night and the [[Lore#Constellations|Constellation]] itself must be "drawn" on the [[stick-starlight/Items#Common Items|Darkened Celestial Marble]] platform (likely either placed or non-grid based); then a beam of light will gently come down from the sky when its correctly drawn. Once the player stands in the center of the beam for a few seconds, the markers will break, and a skill tree will be presented on the platform. Each [[Lore#Constellations|Constellation]] will provide a different skill tree. See [[Attunement#Players|Player Attunment]] for more information.
+  [[Attunement#Tools & Armor|Tools & Armor]] can be [[Attunement|Attuned]] as well if it is tossed into the beam of light.
+  Possibly also handles "Item Sacrificing" for some [[Attunement#Leveling|Attunment Leveling]]
   
   Attunement notes [[TODO|TODO: move this to its own file]]: 
     we might want an item or player to be "awakened" here to establish the capacity for attunement (like hammering an ancient core onto something in Embers) where they attune with no constellation or added effects.

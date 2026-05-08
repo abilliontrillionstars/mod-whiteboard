@@ -4,7 +4,7 @@ The lore of [[Main - Astral Arcana]] is relatively lose, but contains vague deit
 These are beings of the past that had [[Attunement|attuned]] to a constellation fully; going past the point of no return. While not [[Attunement|Attunable]] directly, deals could possibly be made?
 
 ## Constellations
-These are patterns of stars in the night sky that hold immense power within; each either being or reflecting a powerful being. A compatible object can be [[Attunement|attuned]] to them as well, ranging from [[Attunement#Armor|Armor]], [[Attunement#Tools|Tools]], and [[Attunement#Players|Players]]. The different constellations are:
+These are patterns of stars in the night sky that hold immense power within; each either being or reflecting a powerful being. A compatible object can be [[Attunement|attuned]] to them as well, ranging from [[Attunement#Tools & Armor|Tools & Armor]], to [[Attunement#Players|Players]]. The different constellations are:
 * Celeritas Caprae
 	* A multi horned multi legged goat
 		+ yeah goats have multiple legs I think /silly
@@ -50,7 +50,7 @@ These are patterns of stars in the night sky that hold immense power within; eac
 * Purpura Equus
 	* An Enderman Centaur
 	* Known for safe travels and debts
-	* "In a deadly blood feud with **Draco Spiritus**, this [[Lore|Starlight Power]] is known for rapidly moving across the stars in the Above, taking travelers to distant far off lands of purple and yellow. It is known to have an unwavering loyalty; if is indebted to a being, it will stop at almost nothing to exact that debt, often through servitude."
+	* "In a deadly blood feud with **Draco Spiritus**, this [[Lore|Starlight Power]] is known for rapidly moving across the stars in the Above, taking travelers to distant far off lands of purple and yellow. It is known to have an unwavering loyalty; if it is indebted to a being, it will stop at almost nothing to exact that debt, often through servitude."
 * Gladius et Defensio
 	* A sword crossed over a shield
 		+ I kinda don't prefer the objects as deities because you can't give them personality. what mob could this be instead, there's gotta be something...

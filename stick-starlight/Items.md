@@ -16,6 +16,8 @@ All the items that will feature in: [[Main - Astral Arcana]]
 * **Celestial Marble**
   A block that can be found in [[Structures#Naturally Generated |Above's Gifts]]; a marble like material that has mystical properties, often found near [[stick-starlight/Items#Common Items|Liquid Starlight]]
   + maybe make these more common in certain biomes? e.g. maybe they spawn more at very high mountaintops
+* **Darkened Celestial Marble**
+  A variant of [[stick-starlight/Items#Common Items|Celestial Marble]] that has been crafted with coal or charcoal; making it as dark as the dark side of the moon. Used in many [[Structures#Player Made|Player Made Structures]].
 * **Liquid Starlight**
   A Magical liquid that glows an ominous white; said to be a gift from the stars above to the mortal realm. Used later on to power [[Structures#Player Made|Starlight Machines]] and some Starlight Equipment
 * **Starlight Steel**

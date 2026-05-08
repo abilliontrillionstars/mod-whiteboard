@@ -14,85 +14,96 @@ on second thought maybe this isn't performant. but how cool would it be? to have
 
 ### Spells of MATTER
 CYAN - Integrity
-	* brush shift: multitool
-	* brush shift: construction wand
 
+	* brush shift: multitool
+	- brush shift: construction wand
 	- induce mending
 	- conjure walls
     - terrain summoning?
-
-
+	
 LIGHT_BLUE - Luck, Peace
-    - brush shift: moon clock
 
+    - brush shift: moon clock
     - snowball throwing + winds
     - summon strays or snow golems
     - splash of luck
     - ice / powdersnow floor
     
 BLUE - Permanence, Safety
+
     - empower armor / add resistance effect to self
     - channeled forcefield
     - projectile reflector summon
 
 LIME - Happiness, Fertility
-    - brush-shift:nature's staff
 
+    - brush-shift:nature's staff
     - plant growth (snerry part 2)
     - summon bees (Fertility)
     - summon tamed wolves (Happiness)
 
 ### Spells of TIME
 MAGENTA - Kindness, Tolerance
+
     - mass slow time for nearby mobs
     - acceleration!!! (x4 speed)
     - brush shift: bag of holding
     - brush shift: celestial pocketwatch
 
 PINK - Health, Admiration
+
     - regeneration
     - absorption hearts
 
 PURPLE - Wisdom, Creativity
+
     - brush shift: colorful world
     - read & cast
     
 RED - Passion, Willpower
+
     - throw into air + damage, shockwaves?
     - dash spell (hitting mob deals damage and knocks back)
 ### Spells of ENERGY
 YELLOW - Joy
+
     - brush shift: radiance staff
     - bestow elytra / flight
     - splash leaping / speed
     - the zapperrrrr
     
 BROWN - Nature, Stability
+
     - water summoning
     - saturation
     - fire suppressant
 
 GREEN - Balance, Harmony
+
     - cure
     - brush-shift:crafting tablet
 
 ORANGE - Warmth, Comfort
+
     - ignite
     - bulk smelting
     - fireballs
 
-------------------------------------------#
+### Spells of VOID/LIFE
 BLACK - Power, Mystery
+
     - hold in air and springlock spell
 
 GRAY - Evanescence, Forlornness
+
     - mass item manip
 
 LIGHT_GRAY - Change, Quiet
+
     - through-wall-blinking
     - raycast mine
     
 WHITE - Purity, Innocence
+
 	- invuln spells
 	- villager curing?
-	- 

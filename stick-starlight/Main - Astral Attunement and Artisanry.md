@@ -4,6 +4,7 @@ A joint mod between Laniakea and Stickia that attempts to be a modernized yet un
 * Players find [[stick-starlight/Items#Aquamarine|Aquamarines]] and use them to ascend to [[Structures#Naturally Generated|Above's Gifts]] (likely using a [[stick-starlight/Items|Scrappy Ascended Staff]]), to loot [[stick-starlight/Items#Common Items|Liquid Starlight]] and [[stick-starlight/Items#Common Items|Celestial Marble]]
 * Using the [[stick-starlight/Items#Common Items|Liquid Starlight]] and [[stick-starlight/Items#Common Items|Celestial Marble]], the player can build structures; first starting with the [[Structures#Player Made|Starlight Concentrator]] to produce more mod specific resources
 * At this point, [[stick-starlight/Items#Tools|Juvenile Tools]] can start to be crafted
+* 
 
 [[TODO|TODO: Finish writing the progression]]
 

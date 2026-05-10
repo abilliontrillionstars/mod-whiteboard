@@ -1,0 +1,7 @@
+This page will cover how Constellations will work in game for [[Main - Astral Attunement and Artisanry]]. **Importantly:** when the Constellations are being generated, we will need to account for their [[Constellation Impls#Shape|Shape]], since two overlapping Constellations could cause massive issues!
+## Registration
+To allow addons (such as [[Druidic Addenda]]) to add in their own Constellations, the system will need to be very expandable and preferable simple when possible. Thus, building off of Neoforge's registries will be the best. Each Constellation will need to define their: **[[Constellation Impls#Shape|Shape]]**, and **[[Attunement#Attunment Trees|Attunment Tree]]** (This may be expanded later on)
+## Discovery 
+Each Constellation will need to be "discovered" by the player, since in every world they will generate in a random location in the night sky. The player will do this by using an [[stick-starlight/Items#Tools|Aquamarine Spyglass]], and attempting to connect stars. To make this less painful, stars in Constellations will have a slight glimmer to them when in the [[stick-starlight/Items#Tools|Aquamarine Spyglass]]
+## Shape
+Due to the interesting requirements of Constellations, they require a custom shape system. Likely this will use points and connections. Points are a 2d vector of X and Y, and connections define how the points connect. Once the shape must be rendered in-world, only the points will be rendered; and the connections will be saved for when it is discovered

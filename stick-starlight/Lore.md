@@ -1,4 +1,4 @@
-The lore of [[Main - Astral Arcana]] is relatively lose, but contains vague deities and "The Above." Main power is concentrated within the constellations themselves. All of these can be collectively refereed to as `Starlight Power`, or `Starlight Powers` when referring to all. Each Constellation are known for one positive and one negative aspect
+The lore of [[Main - Astral Attunement and Artisanry]] is relatively lose, but contains vague deities and "The Above." Main power is concentrated within the constellations themselves. All of these can be collectively refereed to as `Starlight Power`, or `Starlight Powers` when referring to all. Each Constellation are known for one positive and one negative aspect
 
 ## Deities
 These are beings of the past that had [[Attunement|attuned]] to a constellation fully; going past the point of no return. While not [[Attunement|Attunable]] directly, deals could possibly be made?

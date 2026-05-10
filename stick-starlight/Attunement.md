@@ -1,4 +1,4 @@
-Attunement in [[Main - Astral Arcana]] is binding an object to a [[Lore|Starlight Power]]. The player counts as an object.
+Attunement in [[Main - Astral Attunement and Artisanry]] is binding an object to a [[Lore|Starlight Power]]. The player counts as an object.
 
 ## Tools & Armor
 Only mod specific armor/tools can be attuned to a [[Lore#Constellations|Constellation]]. Attunement grants different tools specific abilities based on the Constellation. Importantly, since tools and armor are much more simplistic than [[Attunement#Players |Players]]: they lack the [[Attunement#Attunment Trees|Attunment Trees]] players have.

@@ -1,4 +1,4 @@
-A joint mod between Laniakea and Stickia that attempts to be a modernized yet unique spin on Astral Sorcery
+A joint mod between Laniakea and Stickia that attempts to be a modernized yet unique spin on Astral Sorcery. [[Astral Attunement and Artisanry]] Can also be shortened to AAaA or AAA
 
 #### General Progression:
 * Players find [[stick-starlight/Items#Aquamarine|Aquamarines]] and use them to ascend to [[Structures#Naturally Generated|Above's Gifts]] (likely using a [[stick-starlight/Items|Scrappy Ascended Staff]]), to loot [[stick-starlight/Items#Common Items|Liquid Starlight]] and [[stick-starlight/Items#Common Items|Celestial Marble]]

@@ -1,4 +1,4 @@
-All the items that will feature in: [[Main - Astral Arcana]]
+All the items that will feature in: [[Main - Astral Attunement and Artisanry]]
 
 ## Common Items
 * **Aquamarine**

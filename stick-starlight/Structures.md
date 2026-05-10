@@ -1,4 +1,4 @@
-Both naturally generated, and player constructed structures in [[Main - Astral Arcana]]
+Both naturally generated, and player constructed structures in [[Main - Astral Attunement and Artisanry]]
 ## Naturally Generated
 * **Above's Gift**
   A large spherical asteroid parked above the rest of the world; spawns somewhat rarely at build height. The outer layer of the sphere is made of [[stick-starlight/Items#Tools|Celestial Marble]], and the inner layers are [[stick-starlight/Items#Tools|Liquid Starlight]]. Both of these in their natural form allow all light to pass through (to prevent random dark patches underneath)

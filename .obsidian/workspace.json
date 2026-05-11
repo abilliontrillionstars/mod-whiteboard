@@ -6,6 +6,7 @@
       {
         "id": "8d666b92556adf7c",
         "type": "tabs",
+        "dimension": 60.748407643312106,
         "children": [
           {
             "id": "7fea194943ef8a58",
@@ -22,35 +23,38 @@
             }
           },
           {
-            "id": "81317d664d19fa48",
+            "id": "cec04bf38de2528c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stick-starlight/Items.md",
+                "file": "stick-starlight/Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Items"
-            }
-          },
-          {
-            "id": "a66ac03cb5f722e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Astral Arcana/Items.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Items"
+              "title": "Structures"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "3153384d5c7143c7",
+        "type": "tabs",
+        "dimension": 39.2515923566879,
+        "children": [
+          {
+            "id": "a66ac03cb5f722e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Attunment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,17 +199,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "81317d664d19fa48",
+  "active": "cec04bf38de2528c",
   "lastOpenFiles": [
-    "stick-starlight/Structures.md",
-    "stick-starlight/Main - Astral Arcana.md",
     "stick-starlight/Items.md",
+    "stick-starlight/Structures.md",
+    "stick-starlight/concept art/structures-natural-1.png",
+    "stick-starlight/Attunement.md",
+    "stick-starlight/concept art/book-deities.png",
+    "stick-starlight/concept art/book-attune-tree.png",
+    "stick-starlight/Powers.md",
+    "stick-starlight/Main - Astral Attunement and Artisanry.md",
+    "stick-starlight/Lore.md",
+    "stick-starlight/Druidic Addenda.md",
+    "stick-starlight/Constellation Impls.md",
+    "hex-treatises/Main - Names Have Power.md",
+    "stick-starlight/concept art",
+    "stick-starlight/New folder",
+    "stick-starlight/TODO.md",
+    "stick-starlight/Main - Astral Arcana.md",
     "wheelweaving/Controls.md",
     "wheelweaving/Items.md",
     "Astral Arcana/Powers.md",
     "Astral Arcana/ItemsAquamarine.md",
     "wheelweaving/Main - Wheelweaving.md",
-    "hex-treatises/Main - Names Have Power.md",
     "wheelweaving/Documentation Scraps.md",
     "wheelweaving/Foreword.md",
     "Astral Arcana",

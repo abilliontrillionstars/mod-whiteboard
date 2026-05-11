@@ -8,6 +8,8 @@ Both naturally generated, and player constructed structures in [[Main - Astral A
 * **Shrines**
   Ruins of old sites used to worship the constellations. since some of the deities are worshipped or tended to by ingame mobs, we could make different variants for the themes (ex. shrines for villagers to Auream Robotam, would need biome variants). these could be sprinkled with loot and materials that players need to start the mod (if we decide that the gifts don't spawn at world creation - see above)
 
+![[structures-natural-1.png]]
+
 ## Player Made
 * **Starlight Concentrator**
   A device constructed out of [[stick-starlight/Items#Tools|Celestial Marble]] meant to infuse items with [[stick-starlight/Items#Common Items|Liquid Starlight]]. Used to craft tools, and common resources of the mod

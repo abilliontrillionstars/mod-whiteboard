@@ -3,6 +3,7 @@ The lore of [[Main - Astral Attunement and Artisanry]] is relatively lose, but c
 ## Deities
 These are beings of the past that had [[Attunement|attuned]] to a constellation fully; going past the point of no return. While not [[Attunement|Attunable]] directly, deals could possibly be made?
 
+![[book-deities.png]]
 ## Constellations
 These are patterns of stars in the night sky that hold immense power within; each either being or reflecting a powerful being. A compatible object can be [[Attunement|attuned]] to them as well, ranging from [[Attunement#Tools & Armor|Tools & Armor]], to [[Attunement#Players|Players]]. The different constellations are:
 * Celeritas Caprae

@@ -2,7 +2,6 @@ The lore of [[Main - Astral Attunement and Artisanry]] is relatively lose, but c
 
 ## Deities
 These are beings of the past that had [[Attunement|attuned]] to a constellation fully; going past the point of no return. While not [[Attunement|Attunable]] directly, deals could possibly be made?
-
 ![[book-deities.png]]
 ## Constellations
 These are patterns of stars in the night sky that hold immense power within; each either being or reflecting a powerful being. A compatible object can be [[Attunement|attuned]] to them as well, ranging from [[Attunement#Tools & Armor|Tools & Armor]], to [[Attunement#Players|Players]]. The different constellations are:
@@ -68,5 +67,8 @@ These are patterns of stars in the night sky that hold immense power within; eac
 	* Known for life and punishments
 	* "Other [[Lore|Starlight Powers!]] are fearful of Infintia Natrurae. A being that is both made of brimstone and wood, it is often seen as the one who made both the Overworld and Underworld as reflections of itself. It sees all life it has created as like its own children - but as well, when they do not act as it wishes, it punishes them dearly. For example, the piglins of the Nether are said to have once revolted against it."
 	+ I like the fresh spin on a Gaea-type deity! Overworld AND Underworld. I'm getting a [D&D Circle of Wildfire Druid](https://dnd5e.wikidot.com/druid:wildfire) kinda vibe from it, and it seems morally gray alignment-wise, maybe a little vindictive. I'll make note of that for character purposes relative to the other deities!
+
+ An example of what some of the Constellations may look like: ![[ConstellationsExamples.svg]] 
+
 
 [[TODO|TODO: Write what attuning to each Constellation does; and what happens if you over tune]]

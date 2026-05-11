@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Attunment",
+                "query": "Attunement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

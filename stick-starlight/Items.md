@@ -53,6 +53,8 @@ Armor is a bit more complicated; but, the overall idea is that armor does not ge
 		* Crescent Staff (Magical staff that emits light beams, but drains [[stick-starlight/Items#Common Items|Liquid Starlight]])
 			+ ooh I like this as a weapon/tool
 			+ I do think the theming could be narrowed down / not just directly named after celestial bodies
+				+ Pulsar Hammer, Gamma Ray Hammer, Photospheric (as in `Photosphere`) Hammer, Sunspot Hammer, Quasar Hammer
+				+ instead of Crescent, what if we were unique and used Gibbous for once? Gibbous Staff?
 		* Ionocube (Named after the `Ionosphere`, pulse based tool to shove the player backwards, and mobs/entities forward)
 			+ I am HERE for these meteorological REFERENCES
 	* Armor 

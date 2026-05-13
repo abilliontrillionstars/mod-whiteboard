@@ -2,17 +2,7 @@ All the items that will feature in: [[Main - Astral Attunement and Artisanry]]
 
 ## Common Items
 * **Aquamarine**
-	   A blue gemstone found under oceans at the deepslate level. Supposed to have mystical powers connected to the Above
-   + I'm not opposed to the idea of putting it in deepslate! but I did do some [research](https://en.wikipedia.org/wiki/Aquamarine_(gem)) and I have a few facts that could inspire something cooler:
-	   - these things take MILLIONS OF YEARS to form
-	   - they form in "hydrothermal veins" so like, at divergent plate boundaries I think?
-	   - hardness of 7.5-8 on Mohs Scale (up there with Quartz; notably harder than steel!!!)
-	   + maybe they spawn on the ocean floor when it's sufficiently deep too?
-		   - this could motivate more underwater exploration in the sea
-	   + anyway, I think the "deep under oceans" is good already, but I want the vein gen to be very unique
-	   + think like Spectrum's Azurite, where the veins are rare but really big, so they're fun to find
-	   + this doesn't mean ours have to be big and rare, but I mean something to make the ore gen interesting
-	   + could also go a geode kind of route, but instead make the geode smaller / different shape (clam ore /hj)
+	   A blue gemstone found under oceans at the deepslate level; in sparse but connected vanes. Supposed to have mystical powers connected to the Above
 * **Celestial Marble**
   A block that can be found in [[Structures#Naturally Generated |Above's Gifts]]; a marble like material that has mystical properties, often found near [[stick-starlight/Items#Common Items|Liquid Starlight]]
 	  maybe make these more common in certain biomes? e.g. maybe they spawn more at very high mountaintops

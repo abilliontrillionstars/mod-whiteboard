@@ -9,26 +9,18 @@ These are patterns of stars in the night sky that hold immense power within; eac
 	* A multi horned 8 legged goat (4 on each side)
 	* Known for willpower and hot-headedness
 	* "A messenger with incredible willpower, it marches its way across the Above with unbridled determination. Historically, it has gotten into several altercations with the more stubborn [[Lore|Starlight Powers]] that have refused to budge amid neglect or other folly, intentional or otherwise."
-	+ I'm thinking that this guy is a convincer. an arguer, that rarely takes no for an answer (but hopefully not in the usual bad way lol, like in the sense that he advocates for things to change for the better)
 * Monstrum Pacificum Chimaera
 	* A combination between: Pigs, Cows, and Sheep
 	* Known for idyllic life and idleness
-		- I like this word, "Idyllic"! extremely peaceful, content. idleness, less so but still good
-		- I'd imagine this deity is still moving around and getting stuff done, in order to provide blessings
 	* "A class of animal that Pigs, Cows, and Sheep all seeming come from; and the common food for the [[Lore|Starlight Powers]] to enjoy. Known for doing nothing but gorging itself. This Specific [[Lore|Starlight Power]] is the largest of the class, and sentient; albeit exhibits many of the same traits as its farmland counterparts"
-	+ "nothing but gorging itself" paints a sort of [Gordo Slime](https://slimerancher.fandom.com/wiki/Gordo_Slimes) picture, but I would imagine this creature still walks around on two hooves
-	+ rather than pure gluttony (which I would think of as ugly for a starlight deity), I would go more of a foodie/gourmand kind of vibe, where it has a passion for providing sustenance
-	+ also I think it would be funnycool if we provided the chimera creatures ingame somehow, even if in just the form of being able to create their hybrid meat (lol) through special crafting
 * Lepus Alatus
 	* Winged Rabbit
 	* Known for speed and fearfulness
 	* "A playful yet easily frighted trickster [[Lore|Starlight Power]]. It seems to tout the [[Lore|Starlight Powers]] for fun, but causes mayhem in its wake, bolting away from the problems it has caused."
-	+ well-described already! I think this one's pretty straightforward since it's a pretty common idea among mythos
 * Putridum Custodem
 	* A Warden like creature that is one with the land (supposed "central" mind of the sculk)
 	* Known for power and rage
 	* "One of the oldest [[Lore|Starlight Powers]]. Despite their distance, it is sometimes postured to be the one being controlling the Sculk. Its unending rage has been subdued only by its eternal period of recovery; it is long tired after many battles with the other [[Lore|Starlight Powers]] as it searched for lesser beings to assimilate."
-	+ I changed the wording here to be more ambiguous about the sculk thing, bc that's a big lore claim that could easily interfere with other mods (like how Spectrum is like "this is canonically what's under bedrock." can be a little limiting) 
 * Dominus Harmonia
 	* A Human that looks much like Steve
 	* Known for creation and destruction
@@ -37,13 +29,10 @@ These are patterns of stars in the night sky that hold immense power within; eac
 	* A massive Phantom being that has Dragon Scales; possibly baring broken manacles
 	* Known for freedom and isolation
 	* "Thought to be a [[Lore|Starlight Power]] that once had ties to the fabled Ender Dragon, it is now free to roam the Above, bringing sprites of the dead to live among the stars. These broken ties sadly drove it to isolation, as the other [[Lore|Starlight Powers]] are hesitant to interact with it."
-	+ this entry mentions the Ender Dragon, but in-universe this is kinda spoilers; the player probably won't know what the End even is, let alone the dragon, by the time they might get this information. we should either make it vague about the Dragon i.e. "some fabled great beast from a twisted floating land" OR consider gating some constellations (and thus larger parts of content) behind other dimensions (see Infintia Natrurae)
 * Auream Robotam
-	* A gilded emerald golem
-		+ this may have been intentional but Totem of Undying reference!! I'd love for it to be visually inspired
+	* A gilded emerald golem (Akin to the Totem of Undying)
 	* Known for prosperity and stagnation
 	* "A [[Lore|Starlight Power]] the Villagers seem endlessly devoted to, as a master of commerce and trade. It seemingly attempts to bribe the other [[Lore|Starlight Power]] into carrying out tasks it is reluctant to perform."
-	+ Reluctance! I like this. "bribe those into doing stuff it doesn't want to do" is a weaker way to put it imo, but maybe this could be a ~~capitalism allegory~~ negative spin on commerce? like maybe it's a "throw money at problem" deity that doesn't care too much about the world, just the circulation of its covet (emeralds)
 * Purpura Equus
 	* An Enderman Centaur, almost a bug looking creature
 	* Known for safe travels and debts
@@ -57,7 +46,6 @@ These are patterns of stars in the night sky that hold immense power within; eac
 	* A Greater Allay (IE: large multi limbed allay) with books floating around it
 	* Known for intelligence and authoritativeness
 	* "A being of nearly pure knowledge that wishes nothing more than to collect more of it. Known for hunting down the other [[Lore|Starlight Powers]] to endlessly ask questions - and becoming irritated when the slew goes unanswered."
-	+ sounds like a great place to put enchantment content
 * Comminui Cunicularius
 	* A large silverfish like worm
 	* Known for digging and ruin
@@ -65,8 +53,7 @@ These are patterns of stars in the night sky that hold immense power within; eac
 * Infintia Natrurae
 	* A tree-ent like being with both fire and leaves sprouting from their head
 	* Known for life and punishments
-	* "Other [[Lore|Starlight Powers!]] are fearful of Infintia Natrurae. A being that is both made of brimstone and wood, it is often seen as the one who made both the Overworld and Underworld as reflections of itself. It sees all life it has created as like its own children - but as well, when they do not act as it wishes, it punishes them dearly. For example, the piglins of the Nether are said to have once revolted against it."
-	+ I like the fresh spin on a Gaea-type deity! Overworld AND Underworld. I'm getting a [D&D Circle of Wildfire Druid](https://dnd5e.wikidot.com/druid:wildfire) kinda vibe from it, and it seems morally gray alignment-wise, maybe a little vindictive. I'll make note of that for character purposes relative to the other deities!
+	* "Other [[Lore|Starlight Powers]] are fearful of Infintia Natrurae. A being that is both made of brimstone and wood, it is often seen as the one who made both the Overworld and Underworld as reflections of itself. It sees all life it has created as like its own children - but as well, when they do not act as it wishes, it punishes them dearly. For example, the piglins of the Nether are said to have once revolted against it."
 
  An example of what some of the Constellations may look like: ![[ConstellationsExamples.svg]] 
 

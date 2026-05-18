@@ -4,6 +4,9 @@ Lani Attunement notes:
     we might want an item or player to be "awakened" here to establish the capacity for attunement (like hammering an ancient core onto something in Embers) where they attune with no constellation or added effects.
     the attunement could be based on "recipes" where some extra in-world thing is added to the structure to determine arguments, on top of the in-world substructure that determines the constellation. for example, maybe you build the constellation hologram, but then you might add some 4 "lens" blocks whose color/shape combinations determine what attunement effect is granted (this is not the working idea but something like that, an extra layer to add to the process that narrows down the "recipe")
 
+    the attunement trees could be just a specially textured modonomicon book ("Attunement Clavis") with tabs for each of the constellations. this way we don't have to impl a special UI for browsing the trees. I say different item bc that's 13~ categories which might not fit amongst the other gameplay-bound categories (and just seems fitting)
+    I would want to check out how modonomicon does its textures to see how closely I can make the book sprite match the feel of the concept art (i.e. making the background dark and space-like, making the nodes look like stars, and the nice fold-out magazine shape if we're lucky)
+
 ## Tools & Armor
 Only mod specific armor/tools can be attuned to a [[Lore#Constellations|Constellation]]. Attunement grants different tools specific abilities based on the Constellation. Importantly, since tools and armor are much more simplistic than [[Attunement#Players |Players]]: they lack the [[Attunement#Attunement Trees|Attunement Trees]] players have.
 
